@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -47,12 +47,13 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: AWS
+    web_url: https://aws.amazon.com/
+    image_url: https://raw.githubusercontent.com/saumilg66/saumilg66.github.io/master/img/aws_logo.png
+  - name: Terraform
+    web_url: https://github.com/hashicorp/terraform
+    image_url: https://camo.githubusercontent.com/591488bbda6eb486fada506b2af06fe5e645c3ae/68747470733a2f2f7777772e7465727261666f726d2e696f2f6173736574732f696d616765732f6c6f676f2d6861736869636f72702d33663130373332662e737667
+  - name: GO
+    web_url: https://github.com/golang/go
+    image_url: https://raw.githubusercontent.com/golang/go/master/doc/gopher/favicon.svg
 
-  - name: Web design
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
